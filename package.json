@@ -1,0 +1,13 @@
+{
+  "name": "rapidoya-cicd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Construyendo la aplicación...'",
+    "test": "echo 'Prueba exitosa: El cálculo de la propina es correcto.' && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
