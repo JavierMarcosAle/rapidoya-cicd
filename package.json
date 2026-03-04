@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build": "echo 'Construyendo la aplicación...'",
+    "build": "echo 'Construyendo la aplicación RápidoYa v1.1...'",
     "test": "echo 'Prueba exitosa: El cálculo de la propina es correcto.' && exit 0"
   },
   "keywords": [],
